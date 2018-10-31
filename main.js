@@ -222,7 +222,7 @@ async function start(cur_mode) {
     mode = cur_mode
     
     //load the model 
-    model = await tf.loadModel('model2/model.json')
+    model = await tf.loadModel('model2/model.json')//加载模型
     
     //warm up 
     model.predict(tf.zeros([1, 28, 28, 1]))
@@ -237,10 +237,10 @@ async function start(cur_mode) {
 /*
 allow drawing on canvas
 */
-function allowDrawing() {
+function allowDrawing() {     //等待模型加载
     canvas.isDrawingMode = 1;
     if (mode == 'en')
-        document.getElementById('status').innerHTML = 'Model Loaded';
+        document.getElementById('status').innerHTML = '加载成功';
     else
         document.getElementById('status').innerHTML = 'تم التحميل';
     $('button').prop('disabled', false);
@@ -253,7 +253,7 @@ function allowDrawing() {
 /*
 clear the canvs 
 */
-function erase() {
+function erase() {  //模型删除
     canvas.clear();
     canvas.backgroundColor = '#ffffff';
     coords = [];
