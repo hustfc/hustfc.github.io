@@ -8,7 +8,7 @@ eyeglasses
 lollipop
 baseball
 traffic_light
-sun
+太阳
 helmet
 bridge
 alarm_clock

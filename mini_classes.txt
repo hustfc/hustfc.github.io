@@ -1,5 +1,5 @@
 drums
-太阳
+sun
 laptop
 anvil
 baseball_bat
