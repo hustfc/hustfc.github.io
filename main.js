@@ -43,6 +43,12 @@ function setTable(top5, probs) {
         sym.innerHTML = top5[i]
         prob.innerHTML = Math.round(probs[i] * 100)
     }
+    for (var i = 0; i < top5.length; i++) {
+        let sym = document.getElementById('mysym' + (i + 1))
+        let prob = document.getElementById('myprob' + (i + 1))
+        sym.innerHTML = top5[i]
+        prob.innerHTML = Math.round(probs[i] * 100)
+    }
     //create the pie 
     createPie(".pieID.legend", ".pieID.pie");
 
@@ -241,6 +247,7 @@ function allowDrawing() {     //等待模型加载
     canvas.isDrawingMode = 1;
     if (mode == 'en')
         document.getElementById('status').innerHTML = '加载成功';
+        document.getElementById('mystatus').innerHTML = '加载成功';
     else
         document.getElementById('status').innerHTML = 'تم التحميل';
     $('button').prop('disabled', false);
