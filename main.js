@@ -145,7 +145,8 @@ async function loadDict() {
     if (mode == 'ar')
         loc = 'model2/class_names_ar.txt'
     else
-        loc = 'model2/class_names.txt'
+        //loc = 'model2/class_names.txt'
+        loc = 'model/class_names.txt'
     await $.ajax({
         url: loc,
         dataType: 'text',
@@ -221,8 +222,8 @@ async function start(cur_mode) {
     mode = cur_mode
     
     //load the model 
-    model = await tf.loadModel('model2/model.json')//加载模型
-    //model = await tf.loadModel('model/model.json')//加载模型
+    //model = await tf.loadModel('model2/model.json')//加载模型
+    model = await tf.loadModel('model/model.json')//加载模型
 
     //warm up 
     model.predict(tf.zeros([1, 28, 28, 1]))

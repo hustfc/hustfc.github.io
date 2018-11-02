@@ -2,42 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fa4ad4c-c29f-478a-82a3-95a238966625" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/.idea/model.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/class_names.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard10of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard11of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard12of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard13of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard14of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard15of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard16of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard17of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard18of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard19of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard1of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard20of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard21of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard2of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard3of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard4of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard5of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard6of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard7of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard8of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/group1-shard9of21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/model.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model2/class_names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model2/class_names.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model2/class_names_ar.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model2/group1-shard1of1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model2/group2-shard1of1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model2/group3-shard1of1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model2/group4-shard1of1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model2/group5-shard1of1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model2/model.json" beforeDir="false" afterPath="$PROJECT_DIR$/model2/model.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/class_names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model/class_names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard1of1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group2-shard1of1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group3-shard1of1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group4-shard1of1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group5-shard1of1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/model.json" beforeDir="false" afterPath="$PROJECT_DIR$/model/model.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -81,15 +55,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="405" />
-          <entry key="js" value="61" />
+          <entry key="html" value="412" />
+          <entry key="js" value="68" />
           <entry key="txt" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="405" />
-          <entry key="JavaScript" value="61" />
+          <entry key="HTML" value="412" />
+          <entry key="JavaScript" value="68" />
           <entry key="PLAIN_TEXT" value="22" />
         </counts>
       </usages-collector>
@@ -120,11 +94,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-135">
-              <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+            <state relative-caret-position="420">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
               <folding>
                 <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,7 +119,7 @@
         <entry file="file://$USER_HOME$/Downloads/sketcher/model2/class_names.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -151,8 +127,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="223" column="4" selection-start-line="223" selection-start-column="4" selection-end-line="223" selection-end-column="4" />
+            <state relative-caret-position="-142">
+              <caret line="148" column="20" selection-start-line="148" selection-start-column="20" selection-end-line="148" selection-end-column="20" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -178,10 +154,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$USER_HOME$/Downloads/sketcher/model2/class_names.txt" />
         <option value="$PROJECT_DIR$/model2/class_names.txt" />
         <option value="$PROJECT_DIR$/mini_classes.txt" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/main.js" />
       </list>
     </option>
@@ -254,12 +230,12 @@
       <workItem from="1540977274550" duration="3603000" />
       <workItem from="1541043208767" duration="1250000" />
       <workItem from="1541054844677" duration="419000" />
-      <workItem from="1541123056262" duration="1816000" />
+      <workItem from="1541123056262" duration="2681000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7991000" />
+    <option name="totallyTimeSpent" value="8856000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="26" width="1260" height="737" extended-state="0" />
@@ -350,17 +326,6 @@
     <entry file="file://$PROJECT_DIR$/model/model.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model2/class_names.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -378,14 +343,27 @@
     <entry file="file://$USER_HOME$/Downloads/sketcher/model2/class_names.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="223" column="4" selection-start-line="223" selection-start-column="4" selection-end-line="223" selection-end-column="4" />
+        <state relative-caret-position="-142">
+          <caret line="148" column="20" selection-start-line="148" selection-start-column="20" selection-end-line="148" selection-end-column="20" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
