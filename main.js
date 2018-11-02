@@ -43,12 +43,6 @@ function setTable(top5, probs) {
         sym.innerHTML = top5[i]
         prob.innerHTML = Math.round(probs[i] * 100)
     }
-    for (var i = 0; i < top5.length; i++) {
-        let sym = document.getElementById('mysym' + (i + 1))
-        let prob = document.getElementById('myprob' + (i + 1))
-        sym.innerHTML = top5[i]
-        prob.innerHTML = Math.round(probs[i] * 100)
-    }
     //create the pie 
     createPie(".pieID.legend", ".pieID.pie");
 
@@ -151,7 +145,8 @@ async function loadDict() {
     if (mode == 'ar')
         loc = 'model2/class_names_ar.txt'
     else
-        loc = 'model2/class_names.txt'
+        //loc = 'model2/class_names.txt'
+        loc = 'model/class_names.txt'
     await $.ajax({
         url: loc,
         dataType: 'text',
@@ -227,8 +222,8 @@ async function start(cur_mode) {
     mode = cur_mode
     
     //load the model 
-    model = await tf.loadModel('model2/model.json')//加载模型
-    //model = await tf.loadModel('model/model.json')//加载模型
+    //model = await tf.loadModel('model2/model.json')//加载模型
+    model = await tf.loadModel('model/model.json')//加载模型
 
     //warm up 
     model.predict(tf.zeros([1, 28, 28, 1]))
@@ -247,7 +242,6 @@ function allowDrawing() {     //等待模型加载
     canvas.isDrawingMode = 1;
     if (mode == 'en')
         document.getElementById('status').innerHTML = '加载成功';
-        document.getElementById('mystatus').innerHTML = '加载成功';
     else
         document.getElementById('status').innerHTML = 'تم التحميل';
     $('button').prop('disabled', false);
