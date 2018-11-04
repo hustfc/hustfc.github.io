@@ -4,6 +4,31 @@
     <list default="true" id="8fa4ad4c-c29f-478a-82a3-95a238966625" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard10of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard10of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard11of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard11of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard12of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard12of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard13of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard13of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard14of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard14of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard15of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard15of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard16of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard16of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard17of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard17of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard18of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard18of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard19of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard19of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard1of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard1of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard20of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard20of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard21of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard21of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard22of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard22of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard23of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard23of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard24of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard24of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard2of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard2of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard3of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard3of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard4of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard4of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard5of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard5of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard6of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard6of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard7of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard7of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard8of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard8of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/group1-shard9of24" beforeDir="false" afterPath="$PROJECT_DIR$/model/group1-shard9of24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/model.json" beforeDir="false" afterPath="$PROJECT_DIR$/model/model.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,14 +43,14 @@
     <session id="-1670051483">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -49,14 +74,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="547" />
+          <entry key="html" value="717" />
           <entry key="js" value="105" />
           <entry key="txt" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="547" />
+          <entry key="HTML" value="717" />
           <entry key="JavaScript" value="105" />
           <entry key="PLAIN_TEXT" value="23" />
         </counts>
@@ -89,8 +114,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="47" column="17" lean-forward="true" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+            <state relative-caret-position="353">
+              <caret line="42" column="324" selection-start-line="42" selection-start-column="324" selection-end-line="42" selection-end-column="324" />
               <folding>
                 <element signature="n#style#0;n#blockquote#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -127,7 +152,7 @@
         <entry file="file://$PROJECT_DIR$/model/class_names.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="590">
-              <caret line="83" column="2" lean-forward="true" selection-start-line="83" selection-start-column="2" selection-end-line="83" selection-end-column="2" />
+              <caret line="83" column="2" selection-start-line="83" selection-start-column="2" selection-end-line="83" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -215,6 +240,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,7 +262,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -274,12 +299,13 @@
       <workItem from="1541123056262" duration="2924000" />
       <workItem from="1541141526656" duration="6990000" />
       <workItem from="1541155607312" duration="1249000" />
-      <workItem from="1541165871393" duration="24000" />
+      <workItem from="1541165871393" duration="170000" />
+      <workItem from="1541293015503" duration="445000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17362000" />
+    <option name="totallyTimeSpent" value="17953000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="26" width="1260" height="737" extended-state="0" />
@@ -414,14 +440,14 @@
     <entry file="file://$PROJECT_DIR$/model/class_names.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="590">
-          <caret line="83" column="2" lean-forward="true" selection-start-line="83" selection-start-column="2" selection-end-line="83" selection-end-column="2" />
+          <caret line="83" column="2" selection-start-line="83" selection-start-column="2" selection-end-line="83" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="47" column="17" lean-forward="true" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+        <state relative-caret-position="353">
+          <caret line="42" column="324" selection-start-line="42" selection-start-column="324" selection-end-line="42" selection-end-column="324" />
           <folding>
             <element signature="n#style#0;n#blockquote#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
