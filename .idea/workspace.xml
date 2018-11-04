@@ -48,14 +48,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="765" />
+          <entry key="html" value="775" />
           <entry key="js" value="105" />
           <entry key="txt" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="765" />
+          <entry key="HTML" value="775" />
           <entry key="JavaScript" value="105" />
           <entry key="PLAIN_TEXT" value="26" />
         </counts>
@@ -88,8 +88,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="42" column="185" selection-start-line="42" selection-start-column="185" selection-end-line="42" selection-end-column="185" />
+            <state relative-caret-position="335">
+              <caret line="42" column="324" lean-forward="true" selection-start-line="42" selection-start-column="324" selection-end-line="42" selection-end-column="324" />
               <folding>
                 <element signature="n#style#0;n#blockquote#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -274,12 +274,12 @@
       <workItem from="1541141526656" duration="6990000" />
       <workItem from="1541155607312" duration="1249000" />
       <workItem from="1541165871393" duration="170000" />
-      <workItem from="1541293015503" duration="1305000" />
+      <workItem from="1541293015503" duration="1496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18813000" />
+    <option name="totallyTimeSpent" value="19004000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="26" width="1260" height="737" extended-state="0" />
@@ -420,8 +420,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="42" column="185" selection-start-line="42" selection-start-column="185" selection-end-line="42" selection-end-column="185" />
+        <state relative-caret-position="335">
+          <caret line="42" column="324" lean-forward="true" selection-start-line="42" selection-start-column="324" selection-end-line="42" selection-end-column="324" />
           <folding>
             <element signature="n#style#0;n#blockquote#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
